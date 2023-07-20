@@ -24,7 +24,7 @@ Starting with an existing application, methods were implemented for getting and 
 
 ## Screenshot
 
-(Assets/screenshot.png)
+![Text Editor](Assets/screenshot.png)
 
 ## Credit
 
