@@ -24,7 +24,7 @@ Starting with an existing application, methods were implemented for getting and 
 
 ## Screenshot
 
-(/Assets/Screenshot 2023-07-20 at 11.42.20 AM.png)
+(Assets/screenshot.png)
 
 ## Credit
 
