@@ -1,18 +1,18 @@
-## Just Another Text Editor
+# Just Another Text Editor
 
-# Description
+## Description
 
 This is a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. The application also functions offline.
 
 Starting with an existing application, methods were implemented for getting and storing data to an IndexedDB database. 
 
-# Functions
+## Functions
 
 - Reopening after closing the content from the previous session displays
 - Able to download the application as an icon on my computer
 - Able to run the application offline 
 
-# Tech Used
+## Tech Used
 
 - idb package
 - JavaScript
@@ -22,23 +22,23 @@ Starting with an existing application, methods were implemented for getting and 
 - Heroku
 - Webpack
 
-# Screenshot
+## Screenshot
 
-/Assets/Screenshot 2023-07-20 at 11.42.20 AM.png
+(/Assets/Screenshot 2023-07-20 at 11.42.20 AM.png)
 
-# Credit
+## Credit
 
 Starter code by Sachin Jhaveri via edx Module 19 Challenge.
 
-# Usage
+## Usage
 
 File can used and shared for knowledge or expansion, as needed.
 
-# License
+## License
 
 LICENSE.txt
 
-# Links
+## Links
 
 - GitHub Repository: https://github.com/cherah-petra/Challenge19
 - Heroku deployment: https://jatetexteditor23-ab2d0d4dd816.herokuapp.com/
